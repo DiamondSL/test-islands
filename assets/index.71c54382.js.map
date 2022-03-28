@@ -1,0 +1,1 @@
+{"version":3,"file":"index.71c54382.js","sources":["../../src/pages/not-found/index.tsx"],"sourcesContent":["import { Result } from 'antd'\r\nimport { FC } from 'react'\r\n\r\nconst NotFound: FC = () => <Result status={'404'} title={'Requested page not found'} />\r\n\r\nexport { NotFound as default }\r\n"],"names":["NotFound"],"mappings":"2NAGMA,WAAsB,GAAO,OAAQ,MAAO,MAAO,6BAApC"}
