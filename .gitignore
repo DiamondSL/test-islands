@@ -1,0 +1,21 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+node_modules
+/node_modules
+.idea
+*.iml
+out
+gen
+.npm
+.pnp.*
+.yarn/build-state.yml
+.yarn/install-state.gz
+.yarn/cache
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.env
